@@ -1,0 +1,23 @@
+{
+  "name": "slack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayshcache/slack-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayshcache/slack-app/issues"
+  },
+  "homepage": "https://github.com/kayshcache/slack-app#readme",
+  "dependencies": {
+    "@slack/web-api": "^5.6.0"
+  }
+}
